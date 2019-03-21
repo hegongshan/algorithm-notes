@@ -8,4 +8,5 @@
 |  4   | [2.5小节——C/C++快速入门->数组](http://codeup.cn/contest.php?cid=100000569) |
 |  5   | [2.6小节——C/C++快速入门->函数](http://codeup.cn/contest.php?cid=100000570) |
 |  6   | [2.7小节——C/C++快速入门->指针](http://codeup.cn/contest.php?cid=100000571) |
+|  7   | [2.8小节——C/C++快速入门->结构体(struct)的使用](http://codeup.cn/contest.php?cid=100000572) |
 
