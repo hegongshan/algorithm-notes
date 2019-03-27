@@ -10,4 +10,5 @@
 |  6   | [2.7小节——C/C++快速入门->指针](http://codeup.cn/contest.php?cid=100000571) |
 |  7   | [2.8小节——C/C++快速入门->结构体(struct)的使用](http://codeup.cn/contest.php?cid=100000572) |
 |  8   | [2.10小节——C/C++快速入门->黑盒测试](http://codeup.cn/contest.php?cid=100000574) (处理特定的输入输出条件) |
+|  9   | [3.1小节——入门模拟->简单模拟](<http://codeup.cn/contest.php?cid=100000575>) |
 
