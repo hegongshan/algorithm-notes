@@ -13,4 +13,5 @@
 |  9   | [3.1小节——入门模拟->简单模拟](http://codeup.cn/contest.php?cid=100000575) |
 |  10  | [3.2小节——入门模拟->查找元素](http://codeup.cn/contest.php?cid=100000576) |
 |  11  | [3.3小节——入门模拟->图形输出](http://codeup.cn/contest.php?cid=100000577) |
+|  12  | [3.4小节——入门模拟->日期处理](http://codeup.cn/contest.php?cid=100000578) |
 
