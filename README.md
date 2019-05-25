@@ -16,4 +16,5 @@
 |  12  | [3.4小节——入门模拟->日期处理](http://codeup.cn/contest.php?cid=100000578) |
 |  13  | [3.5小节——入门模拟->进制转换](http://codeup.cn/contest.php?cid=100000579) |
 |  14  | [3.6小节——入门模拟->字符串处理](http://codeup.cn/contest.php?cid=100000580) |
+|  15  | [4.1小节——算法初步->排序](http://codeup.cn/contest.php?cid=100000581) |
 
