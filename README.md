@@ -19,4 +19,5 @@
 |  15  | [4.1小节——算法初步->排序](http://codeup.cn/contest.php?cid=100000581) |
 |  16  | [4.2小节——算法初步->哈希](http://codeup.cn/contest.php?cid=100000582) |
 |  17  | [4.3小节——算法初步->递归](http://codeup.cn/contest.php?cid=100000583) |
+|  18  | [10.5小节——图算法专题->最小生成树](http://codeup.cn/contest.php?cid=100000622) |
 
